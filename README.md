@@ -1,4 +1,4 @@
-Hello 👋🏾
+Hello  👋🏾
 
 I'm a Software Engineer who currently is a student at Altschool Africa and also a Intern at Interswitch Limited. 
 
